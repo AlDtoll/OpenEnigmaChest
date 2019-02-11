@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ящик загадок</string>
+    <string name="encrypt_message">Здесь нужно ввести зашифрованное сообщение</string>
+    <string name="create_enigma">Создать загадку</string>
+    <string name="describe">Описание</string>
+    <string name="word">Слово</string>
+    <string name="make_a_guess">Отгадать</string>
+    <string name="nothing" />
+    <string name="begin">Начать отгадывать</string>
+</resources>
